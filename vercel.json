@@ -1,0 +1,10 @@
+{
+  "cleanUrls": true,
+  "framework": "eleventy",
+  "outputDirectory": "dist",
+  "installCommand": "bun install --frozen-lockfile",
+  "buildCommand": "bun run build",
+  "git": {
+    "deploymentEnabled": true
+  }
+}
